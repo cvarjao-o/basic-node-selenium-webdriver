@@ -1,0 +1,23 @@
+{
+  "name": "basic-node-selenium-webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvarjao-o/basic-node-selenium-webdriver.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cvarjao-o/basic-node-selenium-webdriver/issues"
+  },
+  "homepage": "https://github.com/cvarjao-o/basic-node-selenium-webdriver#readme",
+  "dependencies": {
+    "geckodriver": "^1.19.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
